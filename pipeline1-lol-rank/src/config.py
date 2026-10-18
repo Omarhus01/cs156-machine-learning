@@ -11,7 +11,7 @@ TIERS = DIV_TIERS + APEX_TIERS  # index 0..9 = label
 PAGES_PER_DIVISION = 2
 CANDIDATES_PER_DIVISION = 15   # 60 per tier
 CANDIDATES_APEX = 60
-PLAYERS_PER_TIER = 45          # stop after 30 good players per server+tier
+PLAYERS_PER_TIER = 45          # stop after 45 good players per server+tier
 MIN_SEASON_GAMES = 20
 MATCHES_PER_PLAYER = 15
 MIN_MATCH_IDS = 8              # skip players with fewer recent ranked games
